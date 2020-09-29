@@ -1,0 +1,7 @@
+{
+  "search": "Search...",
+  "empty_msg": "Use search field to get list of articles",
+  "offline_msg": "Connect to internet to continue...",
+  "failed_msg": "Failed to perform search",
+  "pictures": "pictures"
+}
